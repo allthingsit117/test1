@@ -7,8 +7,21 @@ One-command Cowrie installation
 
 Automatic dependency setup
 
-Creates a secure dedicated cowrie user
+Creates a secure, dedicated cowrie user
 
-Sets up Python virtual environment and installs required packages
+Sets up a Python virtual environment and installs required packages
 
 Prepares Cowrie configuration for immediate use
+
+# After installing
+
+To start and check the status of cowrie run the following
+sudo su - cowrie
+cd cowrie
+bin/cowrie start
+bin/cowrie status
+
+# Need Help?
+
+If you get stuck, are confused, or want to explore more advanced features, please visit the official Cowrie documentation:
+https://docs.cowrie.org/en/latest/README.html
