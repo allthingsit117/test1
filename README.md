@@ -25,3 +25,9 @@ bin/cowrie status
 
 If you get stuck, are confused, or want to explore more advanced features, please visit the official Cowrie documentation:
 https://docs.cowrie.org/en/latest/README.html
+
+# Disclaimer
+
+I did not create nor do I own Cowrie. This script simply automates the installation process to help others deploy it more easily.
+All credit for the Cowrie project goes to the official maintainers.
+Visit the official GitHub repo at https://github.com/cowrie/cowrie for source code and contribution details.
